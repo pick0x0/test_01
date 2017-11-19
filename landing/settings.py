@@ -27,7 +27,7 @@ SECRET_KEY = '_+4x)oagul9m2&t&4$gvw(3io3%l%_+0yi55)jdupz+qoddb$9'
 # имя хост твоего веб-сайта сверяется со списком ['localhost', '127.0.0.1', '[::1]'].
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'oxo.pythonanywhere.com']
 
 
 # Application definition
