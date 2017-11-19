@@ -1,8 +1,11 @@
+.idea/
+*.log
+*.pot
 *.pyc
-*~
-__pycache__
-myvenv
+__pycache__/
+local_settings.py
 db.sqlite3
+media
 landing.db
-/static
-.DS_Store
+file.html
+
