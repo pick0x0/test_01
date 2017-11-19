@@ -1,0 +1,10 @@
+* {
+    background-color: magenta;
+}
+
+.title {
+    font-size: 300px;
+    vertical-align: middle;
+    color: #000000;
+    filter: blur(4px);
+}
